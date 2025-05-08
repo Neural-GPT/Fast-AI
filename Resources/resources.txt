@@ -1,1 +1,1 @@
-In this repo I'll store resources which I use while taking this course.
+I added d2l here because I read it along with Fast AI lectures & book. I'll also add other things I find useful, in this repo. 
